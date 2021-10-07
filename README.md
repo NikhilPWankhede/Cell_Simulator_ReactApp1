@@ -10,7 +10,9 @@ Node JS and NPM installed on your system.
 **Installation**
 1. Download the zip file and extra it on your local system.
 2. Open the command promp -> go to the project folder and run following commands - 
+    
     npm install
+    
     npm start
 
 **Usage**
